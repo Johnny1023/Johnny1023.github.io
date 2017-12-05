@@ -6,12 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: "Johnson In A Shellnut"
-email: jw10231204@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
+# title: 
+# email: jw10231204@gmail.com
+# description: > # this means to ignore newlines until "baseurl:"
   Hello and welcome to my new site, currently, this site is just put-together with no direction
   as I try to decipher how everything works.
-baseurl: "" # the subpath of your site, e.g. /blog
+# baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.PsyDSha.nard.ca/" # the base hostname & protocol for your site
 twitter_username: *this is blank for now*
 github_username:  Johnny1023

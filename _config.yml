@@ -6,9 +6,15 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
+<<<<<<< HEAD
 # title: 
 # email: jw10231204@gmail.com
 # description: > # this means to ignore newlines until "baseurl:"
+=======
+title: Web
+email: jw10231204@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+>>>>>>> 9272f135032a454834d4ff4d0c29c87b6689bbf2
   Hello and welcome to my new site, currently, this site is just put-together with no direction
   as I try to decipher how everything works.
 # baseurl: "" # the subpath of your site, e.g. /blog
